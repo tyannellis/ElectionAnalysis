@@ -1,6 +1,6 @@
 # Election Analysis
 ## Overview of Election Analysis 
-The purpose of this election analysis audit was to use python to report the election results of U.S congressional precint in Colorado for an election commission employee. I was tasked with showing the total number of votes cast,the breakout of votes by county and candidate, the winner of the election, and the county with the most votes. 
+The purpose of this election analysis audit was to use python to report the election results of U.S congressional precinct in Colorado for an election commission employee. I was tasked with showing the total number of votes cast, the breakout of votes by county and candidate, the winner of the election, and the county with the most votes. 
 
 ## Election-Audit Results 
 
@@ -23,4 +23,4 @@ The purpose of this election analysis audit was to use python to report the elec
 * Winning Percentage: 73.8%
 
 ## Election-Audit Summary 
-This script has the capability to be used for any election with simple modifacations. If election is at the naitonal level the script can load in another csv with that data and modify the for loops and if statment to determine the count of votes by county to the count of votes by state. To show the break out of votes by political party the a different csv with that data could be loaded in and nearly identifcal for loops can be used to find the count of votes by political party.
+This script has the capability to be used for any election with simple modifications. If election is at the national level the script can load in another csv with that data and modify the for loops and if statement to determine the count of votes by county to the count of votes by state. To show the break out of votes by political party a different csv with that data could be loaded in and nearly identical for loops can be used to find the count of votes by political party.
